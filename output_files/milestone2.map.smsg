@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at milestone2.v(125): always construct contains both blocking and non-blocking assignments File: //SRVA/Homes$/quyilin/Desktop/yasuhati/milestone2.v Line: 125
+Warning (10268): Verilog HDL information at signal_analyser.v(14): always construct contains both blocking and non-blocking assignments File: //SRVA/Homes$/quyilin/Desktop/yasuhati/signal_analyser.v Line: 14
